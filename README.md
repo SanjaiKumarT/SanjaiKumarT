@@ -79,19 +79,18 @@ sanjaidev = SanjaiKumar()
 ## 💼 Professional Experience
 
 ### 🚀 Prompt Engineering Intern
-**Pan Tech** | Jan 2025 - Present
 - Developing expertise in prompt optimization for LLMs
 - Creating intelligent AI-powered solutions
 - Collaborating with cross-functional teams
 
 ### 🌐 Full-Stack Developer Intern
-**Novi Tech** | Jan 2024 - Dec 2024
+**Pan Tech** | Aug 2025 - Aug 2025
 - Built responsive web applications using HTML, CSS, JavaScript
 - Implemented frontend and basic backend logic
 - Worked on real-world projects with production requirements
 
 ### 🎨 UI/UX Designer Intern
-**Novi Tech** | Jan 2023 - Dec 2023
+**Novi Tech** | Jul 2025 - Aug 2025
 - Designed user-centric interfaces in Figma
 - Created wireframes and high-fidelity mockups
 - Collaborated with developers to ensure design implementation
