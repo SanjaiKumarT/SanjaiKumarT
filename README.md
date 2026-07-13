@@ -16,7 +16,7 @@ class SanjaiKumar:
     def __init__(self):
         self.name = "Sanjai Kumar T"
         self.location = "Tamil Nadu, India"
-        self.role = "Designer & Full-Stack Engineer"
+        self.role = "Designer & Frontend Engineer"
         self.education = "B.Tech in AI & Data Science (2022-2026)"
         self.current_focus = "Generative AI & Web Development"
         
