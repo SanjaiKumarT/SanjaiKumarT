@@ -1,6 +1,7 @@
 ![](https://capsule-render.vercel.app/api?type=waving&color=0:6d28d9&color=100:2563eb&height=180&section=header&text=SANJAI%20KUMAR%20T&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Designer%20%7C%20Full-Stack%20Engineer%20%7C%20AI%20Enthusiast&descAlignY=62&descSize=16)
 
-<a href="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Building+beautiful%2B+functional+apps;Passionate+about+AI+and+Data+Science;Full-Stack+Developer+%26+UI%2FUX+Designer;Always+learning%2C+always+growing">
+<a href="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Networking
+  +Cloud Computing;Passionate+about+AI+and+Data+Science;Frontend+Developer+%26+UI%2FUX+Designer;Always+learning%2C+always+growing">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Building+beautiful%2B+functional+apps;Passionate+about+AI+and+Data+Science;Full-Stack+Developer+%26+UI%2FUX+Designer;Always+learning%2C+always+growing" />
 </a>
 
