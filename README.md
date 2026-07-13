@@ -100,18 +100,15 @@ sanjaidev = SanjaiKumar()
 
 ## 🎯 Featured Projects
 
-### 🚗 Driver Drowsiness Detection System (Final Year Project)
-**2025-2026** | Computer Vision | Real-time Safety Solution
-- **Tech Stack:** Python, OpenCV, Computer Vision, ML
-- **Description:** AI-powered real-time drowsiness detection system using eye tracking and voice alerts to enhance road safety
-- **Key Features:**
-  - Real-time eye movement monitoring via camera
-  - Instant voice alert trigger on prolonged eye closure
-  - Cost-effective and non-intrusive solution
-  - Enhances driver safety and accident prevention
-- **Status:** In Development | Final Year Capstone
-
----
+🌐 **Cisco Networking Fundamentals Project**
+2026 | Networking | Infrastructure Design
+Skills Used: Routing, Switching, VLANs, OSPF, DHCP, ACL, SSH, Cisco Packet Tracer
+Description: Designed and configured network topologies using Cisco Packet Tracer
+Key Highlights:
+Implemented VLANs and Inter-VLAN communication
+Configured DHCP and OSPF for automated addressing and routing
+Applied ACLs and SSH to enhance network security
+Performed connectivity testing and network troubleshooting
 
 ## 🎓 Education
 
