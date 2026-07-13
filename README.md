@@ -101,14 +101,14 @@ sanjaidev = SanjaiKumar()
 ## 🎯 Featured Projects
 
 🌐 **Cisco Networking Fundamentals Project**
-2026 | Networking | Infrastructure Design
-Skills Used: Routing, Switching, VLANs, OSPF, DHCP, ACL, SSH, Cisco Packet Tracer
-Description: Designed and configured network topologies using Cisco Packet Tracer
-Key Highlights:
-Implemented VLANs and Inter-VLAN communication
-Configured DHCP and OSPF for automated addressing and routing
-Applied ACLs and SSH to enhance network security
-Performed connectivity testing and network troubleshooting
+- 2026 | Networking | Infrastructure Design
+- Skills Used: Routing, Switching, VLANs, OSPF, DHCP, ACL, SSH, Cisco Packet Tracer
+- Description: Designed and configured network topologies using Cisco Packet Tracer
+- Key Highlights:
+- Implemented VLANs and Inter-VLAN communication
+- Configured DHCP and OSPF for automated addressing and routing
+- Applied ACLs and SSH to enhance network security
+- Performed connectivity testing and network troubleshooting
 
 ## 🎓 Education
 
